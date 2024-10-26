@@ -320,7 +320,7 @@ export const themeConfig = {
   music: {
     enable: false,
     // url
-    url: "https://api-meting.example.com",
+    url: "https://api.wuenci.com/meting/api/",
     // id
     id: 9379831714,
     // netease / tencent / kugou
